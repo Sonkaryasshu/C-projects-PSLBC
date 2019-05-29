@@ -1,1 +1,1 @@
-# CSE-3rd-sem
+# Simple C programs like various shapes and simple logics.
